@@ -1,1 +1,1 @@
-final String weatherApiKey = 'c5343cd2581dc1d1b382e3db1dae0b05';
+final String weatherApiKey = '13e5197fe703c03bac074d9d9138e582';
